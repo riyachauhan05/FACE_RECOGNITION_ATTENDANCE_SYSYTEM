@@ -10,7 +10,8 @@ Detailed Reports: Generate comprehensive attendance reports for individual stude
 Secure Data Storage: Ensures all attendance data is securely stored and protected.
 
 Usage:-
-1. Launch the application:
+
+1.Launch the application:
 Open your web browser and navigate to http://localhost:5000.
 
 2.Register Students:
