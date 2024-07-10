@@ -1,5 +1,5 @@
 Introduction:-
-The Student Attendance Recognition System is an automated solution designed to manage and track student attendance efficiently.
+The Face Recognition Attendance System is an automated solution designed to manage and track student attendance efficiently.
 Using facial recognition technology, the system captures and verifies student identities, ensuring accurate attendance records.
 
 Features:-
